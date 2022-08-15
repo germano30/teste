@@ -7,3 +7,6 @@ Esta é uma seção nova
 
 Novo texto
 
+## Seção 3
+
+Nova seção
